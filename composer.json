@@ -7,7 +7,18 @@
         "php": ">=8.1",
         "symfony/dependency-injection": "^6.2",
         "doctrine/orm": "^2.14",
-        "symfony/http-client-contracts": "^3.2"
+        "symfony/http-client-contracts": "^3.2",
+        "ext-mbstring": "*",
+        "ext-iconv": "*",
+        "ext-dom": "*",
+        "ext-sodium": "*",
+        "ext-calendar": "*",
+        "ext-gd": "*",
+        "ext-json": "*",
+        "ext-pdo": "*",
+        "ext-zip": "*",
+        "ext-curl": "*",
+        "ext-fileinfo": "*"
     },
     "license": "MIT",
     "autoload": {
