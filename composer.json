@@ -1,5 +1,5 @@
 {
-    "name": "sentia/common-bundle-symfony",
+    "name": "cigi/common-bundle-symfony",
     "description": "Common bundle for Synology and other services used in multiple projects",
     "type": "library",
     "require": {
@@ -17,7 +17,7 @@
     "authors": [
         {
             "name": "Sentia Community",
-            "email": "info@sentia.sk"
+            "email": "martin.cigarsky@gmail.com"
         }
     ]
 }
