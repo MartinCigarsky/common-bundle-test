@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Sentia\CommonBundleSymfony\Synology;
+namespace cigi\CommonBundleSymfony\Synology;
 
 use Exception;
 use Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface;
