@@ -2,6 +2,7 @@
     "name": "cigi/common-bundle-symfony",
     "description": "Common bundle for Synology and other services used in multiple projects",
     "type": "library",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=8.1",
         "symfony/dependency-injection": "^6.2",
