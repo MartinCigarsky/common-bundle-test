@@ -1,5 +1,5 @@
 {
-    "name": "sentia/common-bundle-symfony",
+    "name": "sentia-sk/common-bundle-symfony",
     "description": "Common bundle for Synology and other services used in multiple projects",
     "type": "library",
     "minimum-stability": "stable",
@@ -21,7 +21,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Sentia\\CommonBundleSymfony\\": "src/"
+            "SentiaSk\\CommonBundleSymfony\\": "src/"
         }
     },
     "authors": [
